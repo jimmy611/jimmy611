@@ -4,7 +4,7 @@
   to render on your profile page. Replace USERNAME below with your real handle.
 -->
 
-<h1 align="center">Hi, I'm Jimmy 👋</h1>
+<h1 align="center">Hi, I'm Jimmy</h1>
 
 <p align="center">
   <a href="https://github.com/jimmy611">
@@ -14,21 +14,21 @@
 
 ---
 
-### 🧠 About me
+### About me
 
 > Backend engineer with a deep love for clean, scalable systems and a hacker's
 > mindset for the security that protects them. I build APIs and services that are
 > fast by design and hard to break, blending solid engineering with a
 > security-first approach to everything I ship.
 
-- 🔧 I live in the backend: APIs, databases, distributed systems and performance.
-- 🛡️ I care about **cybersecurity**: secure-by-default code, threat modeling, and breaking things to make them stronger.
-- 📚 Always learning, always shipping.
-- 💬 Ask me about backend architecture, secure coding, or breaking into security.
+- I live in the backend: APIs, databases, distributed systems and performance.
+- I care about **cybersecurity**: secure-by-default code, threat modeling, and breaking things to make them stronger.
+- Always learning, always shipping.
+- Ask me about backend architecture, secure coding, or breaking into security.
 
 ---
 
-### 🛠️ Tech & Tools
+### Tech & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
