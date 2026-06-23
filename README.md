@@ -16,7 +16,7 @@
 
 ### 🧠 About me
 
-> Backend engineer with a deep love for clean, scalable systems — and a hacker's
+> Backend engineer with a deep love for clean, scalable systems and a hacker's
 > mindset for the security that protects them. I build APIs and services that are
 > fast by design and hard to break, blending solid engineering with a
 > security-first approach to everything I ship.
@@ -42,33 +42,6 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jimmy611&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy611&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmy611&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-### 🌐 Connect
-
-<p align="center">
-  <a href="mailto:jimmymuchathi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/USERNAME">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jimmy611&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile views" />
