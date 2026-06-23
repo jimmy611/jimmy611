@@ -22,7 +22,7 @@
 > security-first approach to everything I ship.
 
 - 🔧 I live in the backend: APIs, databases, distributed systems and performance.
-- 🛡️ I care about **cybersecurity** — secure-by-default code, threat modeling, and breaking things to make them stronger.
+- 🛡️ I care about **cybersecurity**: secure-by-default code, threat modeling, and breaking things to make them stronger.
 - 📚 Always learning, always shipping.
 - 💬 Ask me about backend architecture, secure coding, or breaking into security.
 
