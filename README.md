@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Jimmy 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/jimmymuchathi">
+  <a href="https://github.com/jimmy611">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Backend+Engineer;Cybersecurity+Enthusiast;Building+secure%2C+scalable+systems" alt="Typing SVG" />
   </a>
 </p>
@@ -46,12 +46,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jimmymuchathi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmymuchathi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jimmy611&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy611&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmymuchathi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmy611&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -71,5 +71,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jimmymuchathi&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jimmy611&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
