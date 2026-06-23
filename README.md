@@ -1,9 +1,3 @@
-<!--
-  GitHub Profile README
-  Repo name must match your username exactly (e.g. jimmymuchathi/jimmymuchathi)
-  to render on your profile page. Replace USERNAME below with your real handle.
--->
-
 <h1 align="center">Hi, I'm Jimmy</h1>
 
 <p align="center">
